@@ -1,2 +1,2 @@
 # lets-split-case
-let's split のミドルプレート
+let's split のミドルプレートです。
